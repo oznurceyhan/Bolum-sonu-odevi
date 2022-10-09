@@ -6,3 +6,4 @@ html bölüm sonu çalışması
 
 
 [link bilgisi](http://github.com//oznurceyhan)
+[link bilgisi](http://patika.dev//oznur ceyhan)
