@@ -3,4 +3,4 @@ html bölüm sonu çalışması
 [link bilgisi](http://github.com//oznurceyhan)
 
 
-![Images](img/web sayfam.png)
+<img src="img/web sayfam.png">
