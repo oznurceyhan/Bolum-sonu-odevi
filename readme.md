@@ -3,4 +3,4 @@ html bölüm sonu çalışması
 [link bilgisi](http://github.com//oznurceyhan)
 
 
-![Images](img/web.png)
+![Images](C:/Users/Bruger/Documents/sites/Bölüm sonu çalışması 1/img/web sayfam.png)
