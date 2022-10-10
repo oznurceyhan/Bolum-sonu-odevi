@@ -8,7 +8,7 @@ html bölüm sonu çalışması
 [link bilgisi](https://github.com//oznurceyhan)
 
 
-[link bilgisi](https://www.patika.dev//oznurceyhan)
+[link bilgisi](https://app.patika.dev/oznrcyhn)
 
 
 
